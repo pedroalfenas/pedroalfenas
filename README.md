@@ -1,16 +1,22 @@
-## Hi there 👋
+## Olá, me chamo Pedro Alfenas 👋
 
-<!--
-**pedroalfenas/pedroalfenas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+* 🎓 Estudando no IF Sul de Minas - Campus Muzambinho
+* 💻 Aprendendo Lógica de Programação e Desenvolvimento Web
+* 🚀 Consolidando minha base no mundo da Informática
 
-Here are some ideas to get you started:
+# Tecnologias e Ferramentas
+Atualmente, essas são as linguagens e ferramentas que tenho contato no dia a dia:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Linguagem C](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![VS Code](https://shields.io)
+
+# Meus repositórios
+Os projetos que aqui se encontram, como programas e sites, são focados no meu desenvolvimento pessoal e profissional.
+
+# Entre em Contato
+Caso tenha interesse no meu trabalho ou queira participar de algum projeto junto comigo:
+
+[![E-mail](https://shields.io)](mailto:pedrohenriquealfenas1@gmail.com)
